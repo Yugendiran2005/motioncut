@@ -1,2 +1,2 @@
 # motioncut
-week1 project
+week project2
